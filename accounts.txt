@@ -1,0 +1,4 @@
+Shane Pobanz	123 Salty Street	4023132211	10001	100.0	0.9
+Karen Ball	123 Mulligan	4024419090	10002	5000.3	0.9
+James Hardy	333 GettingIt Ln	4027638080	10003	200.0	0.9
+Jimmy Shoom	123 AllDay Rd	4025558699	10004	211.0	0.9
